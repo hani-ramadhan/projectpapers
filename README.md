@@ -35,6 +35,8 @@ Ph.D in Big Data (2017-Ongoing):
 -- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
 - Course Project - Topics in Bioinformatics: Study on Machine Learning for Diabetic Retinopathy Disease Grading [Proposal][propBio1], [Report][reportBio1]
 -- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
+- Korean Conference Paper - KDBC 2018: [Real-Time Stay Points Detection and Hotspot Visualization of
+Indoor Trajectory Streaming Data][kdbc18]
 - International Journal Paper (On Process) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][isst15]
 -- (Machine Learning, Statistical Analysis)
 
@@ -55,3 +57,4 @@ Ph.D in Big Data (2017-Ongoing):
 [hwBDA2]:<https://github.com/haniramadhan/projectpapers/blob/master/KKBOX-Music%20Recommendation.pdf>
 [icast15]:<https://github.com/haniramadhan/projectpapers/blob/master/R9-024%20-%20ICAST%202015.pdf>
 [ai13]: <https://github.com/haniramadhan/projectpapers/blob/master/NEURAL%20NETWORK%20AND%20GENETIC%20ALGORITM%20FOR%20THE%20PREDICTION%20OF%20HEART%20DISEASES.pdf>
+[kdbc18]: <https://github.com/haniramadhan/projectpapers/blob/master/Paper%2038_Camera%20Ready.pdf>
