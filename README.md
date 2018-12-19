@@ -18,7 +18,7 @@ Master of Informatics Engineering (2013-2016):
 - National Research Article - JIKI 2014: [Multithresholding in Grayscale Image using Peak Finding Approach and Hierarchical Cluster Analysis][jiki]
 -- (Image Processing, Segmentation)
 - International Conference Paper - ISST 2015, best paper: [The Fusion of Smartphone Sensors for Indoor 3d Position and Orientation Estimation][isst15]
--- (Sensor Fusion, Machine Learning, Indoor Localization)
+-- (Sensor Fusion, Machine Learning, Mobile Development, Indoor Localization)
 - International Conference Paper - ICAST 2015: [The Orientation Estimation for Smartphone as Object Pointing Device][icast15]
 -- (Sensor Fusion, Machine Learning)
 
@@ -36,7 +36,7 @@ Ph.D in Big Data (2017-Ongoing):
 - Course Project - Topics in Bioinformatics: Study on Machine Learning for Diabetic Retinopathy Disease Grading [Proposal][propBio1], [Report][reportBio1]
 -- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
 - Korean Conference Paper - KDBC 2018: [Real-Time Stay Points Detection and Hotspot Visualization of
-Indoor Trajectory Streaming Data][kdbc18]
+Indoor Trajectory Streaming Data][kdbc18] -- (Streaming Database, Mobile Development, Trajectory Mining)
 - International Journal Paper (On Process) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][isst15]
 -- (Machine Learning, Statistical Analysis)
 
