@@ -9,7 +9,7 @@ Bachelor of Informatics Engineering (2010-2014):
 - National Research Article: [Impression Determination of Batik Image Cloth by Multilabel Ensemble Classification
 using Color Difference Histogram Feature Extraction][kursor]
 -- (Image Processing, Computer Vision, Machine Learning)
-- International Conference Paper - ICAST 2014: [Implementation of Multilayer Perceptron Neural Network towards Time Series Based Decision Support System to Classify Micro-Partner Transactional Activity in Social-Enterprise][icast2014]
+- International Conference Paper - ICAST 2014: [Implementation of Multilayer Perceptron Neural Network towards Time Series Based Decision Support System to Classify Micro-Partner Transactional Activity in Social-Enterprise][icast14]
 -- (Machine Learning, Time Series)
 
 Master of Informatics Engineering (2013-2016):
