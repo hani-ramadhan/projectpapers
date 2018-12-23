@@ -37,7 +37,7 @@ Ph.D in Big Data (2017-Ongoing):
 -- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
 - Korean Conference Paper - KDBC 2018: [Real-Time Stay Points Detection and Hotspot Visualization of
 Indoor Trajectory Streaming Data][kdbc18] -- (Streaming Database, Mobile Development, Trajectory Mining)
-- International Journal Paper (On Process) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][isst15]
+- International Journal Paper (On Process) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][ijim]
 -- (Machine Learning, Statistical Analysis)
 
 
