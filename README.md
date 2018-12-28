@@ -45,7 +45,7 @@ Indoor Trajectory Streaming Data][kdbc18] -- (Streaming Database, Mobile Develop
 [isst15]: <https://github.com/haniramadhan/projectpapers/blob/master/1065-2911-1-PB.pdf>
 [kursor]: <https://github.com/haniramadhan/projectpapers/blob/master/1106-2539-1-SM.pdf>
 [jiki]: <https://github.com/haniramadhan/projectpapers/blob/master/261-941-3-PB.pdf>
-[ijim]: <https://github.com/haniramadhan/projectpapers/blob/master/9530-29207-1-SM.pdf>
+[ijim]: <http://online-journals.org/index.php/i-jim/article/view/9530/5366>
 [hwBDP1]: <https://github.com/haniramadhan/projectpapers/blob/master/BDP%20HW1%20-%20Hadoop%20Tutorial%20Installation.pdf>
 [hwBDP2]: <https://github.com/haniramadhan/projectpapers/blob/master/BDP%20HW2%20-%20Baum%20Welch%20Hadoop.pdf>
 [propDL1]: <https://github.com/haniramadhan/projectpapers/blob/master/DL%20Batik%20Transfer%20-%20Proposal.pdf>
