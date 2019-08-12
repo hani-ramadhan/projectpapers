@@ -1,28 +1,14 @@
 # projectpapers
 The collection of written project and course work reports of Hani Ramadhan.
 
-Dear all, here you can find my records of written articles and reports while I was doing my courseworks. In majority, my expertise revolves 
-in machine learning, computer vision, and database.
+Dear all, here you can find my records of written articles and reports while I was doing my courseworks. In majority, my expertise revolves in machine learning, computer vision, and database.
 
 Here are the records:
-Bachelor of Informatics Engineering (2010-2014):
-- National Research Article: [Impression Determination of Batik Image Cloth by Multilabel Ensemble Classification
-using Color Difference Histogram Feature Extraction][kursor]
--- (Image Processing, Computer Vision, Machine Learning)
-- International Conference Paper - ICAST 2014: [Implementation of Multilayer Perceptron Neural Network towards Time Series Based Decision Support System to Classify Micro-Partner Transactional Activity in Social-Enterprise][icast14]
--- (Machine Learning, Time Series)
-
-Master of Informatics Engineering (2013-2016):
-- Course Project - Artificial Intelligence: [Neural Network and Genetic Algorithm For Prediction of Heart Diseases][ai13]
--- (Machine Learning, Optimization)
-- National Research Article - JIKI 2014: [Multithresholding in Grayscale Image using Peak Finding Approach and Hierarchical Cluster Analysis][jiki]
--- (Image Processing, Segmentation)
-- International Conference Paper - ISST 2015, best paper: [The Fusion of Smartphone Sensors for Indoor 3d Position and Orientation Estimation][isst15]
--- (Sensor Fusion, Machine Learning, Mobile Development, Indoor Localization)
-- International Conference Paper - ICAST 2015: [The Orientation Estimation for Smartphone as Object Pointing Device][icast15]
--- (Sensor Fusion, Machine Learning)
-
 Ph.D in Big Data (2017-Ongoing):
+- International Journal Paper (Published) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][ijim]
+-- (Machine Learning, Statistical Analysis)
+- Korean Conference Paper - KDBC 2018: [Real-Time Stay Points Detection and Hotspot Visualization of
+Indoor Trajectory Streaming Data][kdbc18] -- (Streaming Database, Mobile Development, Trajectory Mining)
 - Coursework Homework - Big Data Processing: [Hadoop Tutorial][hwBDP1]
 -- (Hadoop, Linux)
 - Coursework Homework - Big Data Processing: [Baum Welch Algorithm using Hadoop][hwBDP2]
@@ -35,11 +21,28 @@ Ph.D in Big Data (2017-Ongoing):
 -- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
 - Course Project - Topics in Bioinformatics: Study on Machine Learning for Diabetic Retinopathy Disease Grading [Proposal][propBio1], [Report][reportBio1]
 -- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
-- Korean Conference Paper - KDBC 2018: [Real-Time Stay Points Detection and Hotspot Visualization of
-Indoor Trajectory Streaming Data][kdbc18] -- (Streaming Database, Mobile Development, Trajectory Mining)
-- International Journal Paper (On Process) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][ijim]
--- (Machine Learning, Statistical Analysis)
+- Course Project - Streaming Database: Study of Semantic Map Matching using Bluetooth Low Energy Sensing in Indoor Environment [Report][sdb18]
+-- (Database, Machine Learning, Deep Learning, TensorFlow, Signal Processing)
+- Course Project - Big Data Storage System: Learned Partition Index for Similar Trajectory Search in Distributed In-Memory System [Report][bdss19]
+-- (Database, Machine Learning, Deep Learning, TensorFlow, Scala)
 
+Master of Informatics Engineering (2013-2016):
+- Course Project - Artificial Intelligence: [Neural Network and Genetic Algorithm For Prediction of Heart Diseases][ai13]
+-- (Machine Learning, Optimization)
+- National Research Article - JIKI 2014: [Multithresholding in Grayscale Image using Peak Finding Approach and Hierarchical Cluster Analysis][jiki]
+-- (Image Processing, Segmentation)
+- International Conference Paper - ISST 2015, best paper: [The Fusion of Smartphone Sensors for Indoor 3d Position and Orientation Estimation][isst15]
+-- (Sensor Fusion, Machine Learning, Mobile Development, Indoor Localization)
+- International Conference Paper - ICAST 2015: [The Orientation Estimation for Smartphone as Object Pointing Device][icast15]
+-- (Sensor Fusion, Machine Learning)
+
+
+Bachelor of Informatics Engineering (2010-2014):
+- National Research Article: [Impression Determination of Batik Image Cloth by Multilabel Ensemble Classification
+using Color Difference Histogram Feature Extraction][kursor]
+-- (Image Processing, Computer Vision, Machine Learning)
+- International Conference Paper - ICAST 2014: [Implementation of Multilayer Perceptron Neural Network towards Time Series Based Decision Support System to Classify Micro-Partner Transactional Activity in Social-Enterprise][icast14]
+-- (Machine Learning, Time Series)
 
 
 [isst15]: <https://github.com/haniramadhan/projectpapers/blob/master/1065-2911-1-PB.pdf>
@@ -58,3 +61,5 @@ Indoor Trajectory Streaming Data][kdbc18] -- (Streaming Database, Mobile Develop
 [icast15]:<https://github.com/haniramadhan/projectpapers/blob/master/R9-024%20-%20ICAST%202015.pdf>
 [ai13]: <https://github.com/haniramadhan/projectpapers/blob/master/NEURAL%20NETWORK%20AND%20GENETIC%20ALGORITM%20FOR%20THE%20PREDICTION%20OF%20HEART%20DISEASES.pdf>
 [kdbc18]: <https://github.com/haniramadhan/projectpapers/blob/master/Paper%2038_Camera%20Ready.pdf>
+[bdss19]: <https://github.com/haniramadhan/projectpapers/blob/master/BDSS_Hani_201793254_Hudzai_201983278.pdf>
+[sdb18]: <https://github.com/haniramadhan/projectpapers/blob/master/Map_Matching_Beacon_SDB_Final_Report.pdf>
