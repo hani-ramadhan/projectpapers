@@ -5,26 +5,32 @@ Dear all, here you can find my records of written articles and reports while I w
 
 Here are the records:
 Ph.D in Big Data (2017-Ongoing):
-- International Journal Paper (Published) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][ijim]
--- (Machine Learning, Statistical Analysis)
-- Korean Conference Paper - KDBC 2018: [Real-Time Stay Points Detection and Hotspot Visualization of
-Indoor Trajectory Streaming Data][kdbc18] -- (Streaming Database, Mobile Development, Trajectory Mining)
-- Coursework Homework - Big Data Processing: [Hadoop Tutorial][hwBDP1]
--- (Hadoop, Linux)
-- Coursework Homework - Big Data Processing: [Baum Welch Algorithm using Hadoop][hwBDP2]
--- (Hadoop, Linux, Machine Learning)
-- Course Project - Big Data Analytics: Imbalanced Dataset Exploration by Various Resampling Approaches and Genetic Algorithm Feature Selection Study Case: KKBox Churn Prediction [Report][hwBDA1]
--- (Machine Learning, Churn Prediction)
-- Course Project - Big Data Analytics: Comparison of Distinct LGB Models Implementation in KKBox Music Recommendation Case [Report][hwBDA2]
--- (Machine Learning, Recommendation System)
-- Course Project - Deep Learning: MLBatikNet: Deep Learning Based Multilabel Batik Impression Classification [Proposal][propDL1], [Report][reportDL1]
--- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
-- Course Project - Topics in Bioinformatics: Study on Machine Learning for Diabetic Retinopathy Disease Grading [Proposal][propBio1], [Report][reportBio1]
--- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
-- Course Project - Streaming Database: Study of Semantic Map Matching using Bluetooth Low Energy Sensing in Indoor Environment [Report][sdb18]
--- (Database, Machine Learning, Deep Learning, TensorFlow, Signal Processing)
-- Course Project - Big Data Storage System: Learned Partition Index for Similar Trajectory Search in Distributed In-Memory System [Report][bdss19]
+
+- 2019 - International Conference (Poster Paper) - Big Data 2019: [Extracting valid indoor semantic trajectories using
+movement constraints][bdss19]
+-- (Database, Machine Learning, Deep Learning, Unstructured data, Signal Processing)
+- 2019 - Korean Conference Paper - KDBC 2019: [Learned Index for Similar Trajectory Search in Distributed In-Memory System][kdbc19], [PPT][kdbc2019ppt]
 -- (Database, Machine Learning, Deep Learning, TensorFlow, Scala)
+- 2019 - Course Project - Big Data Storage System: Learned Partition Index for Similar Trajectory Search in Distributed In-Memory System [Report][bdss19]
+-- (Database, Machine Learning, Deep Learning, TensorFlow, Scala)
+- 2018 - International Journal Paper (Published) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][ijim]
+-- (Machine Learning, Statistical Analysis)
+- 2018 - Korean Conference Paper - KDBC 2018: [Real-Time Stay Points Detection and Hotspot Visualization of
+Indoor Trajectory Streaming Data][kdbc18] -- (Streaming Database, Mobile Development, Trajectory Mining)
+- 2018 - Course Project - Deep Learning: MLBatikNet: Deep Learning Based Multilabel Batik Impression Classification [Proposal][propDL1], [Report][reportDL1]
+-- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
+- 2018 - Course Project - Topics in Bioinformatics: Study on Machine Learning for Diabetic Retinopathy Disease Grading [Proposal][propBio1], [Report][reportBio1]
+-- (Computer Vision, Machine Learning, Deep Learning, TensorFlow)
+- 2018 - Course Project - Streaming Database: Study of Semantic Map Matching using Bluetooth Low Energy Sensing in Indoor Environment [Report][sdb18]
+-- (Database, Machine Learning, Unstructured data, Signal Processing)
+- 2017 - Coursework Homework - Big Data Processing: [Hadoop Tutorial][hwBDP1]
+-- (Hadoop, Linux)
+- 2017 - Coursework Homework - Big Data Processing: [Baum Welch Algorithm using Hadoop][hwBDP2]
+-- (Hadoop, Linux, Machine Learning)
+- 2017 -  Course Project - Big Data Analytics: Imbalanced Dataset Exploration by Various Resampling Approaches and Genetic Algorithm Feature Selection Study Case: KKBox Churn Prediction [Report][hwBDA1]
+-- (Machine Learning, Churn Prediction)
+- 2017 - Course Project - Big Data Analytics: Comparison of Distinct LGB Models Implementation in KKBox Music Recommendation Case [Report][hwBDA2]
+-- (Machine Learning, Recommendation System)
 
 Master of Informatics Engineering (2013-2016):
 - Course Project - Artificial Intelligence: [Neural Network and Genetic Algorithm For Prediction of Heart Diseases][ai13]
@@ -61,5 +67,8 @@ using Color Difference Histogram Feature Extraction][kursor]
 [icast15]:<https://github.com/haniramadhan/projectpapers/blob/master/R9-024%20-%20ICAST%202015.pdf>
 [ai13]: <https://github.com/haniramadhan/projectpapers/blob/master/NEURAL%20NETWORK%20AND%20GENETIC%20ALGORITM%20FOR%20THE%20PREDICTION%20OF%20HEART%20DISEASES.pdf>
 [kdbc18]: <https://github.com/haniramadhan/projectpapers/blob/master/Paper%2038_Camera%20Ready.pdf>
+[kdbc19]: <https://github.com/haniramadhan/projectpapers/blob/master/Paper%20(1).pdf>
+[kdbc19ppt]: <https://github.com/haniramadhan/projectpapers/blob/master/KDBC2019.pdf>
 [bdss19]: <https://github.com/haniramadhan/projectpapers/blob/master/BDSS_Hani_201793254_Hudzai_201983278.pdf>
+[bigdata19]: <https://github.com/haniramadhan/projectpapers/blob/master/poster_threepage.pdf>
 [sdb18]: <https://github.com/haniramadhan/projectpapers/blob/master/Map_Matching_Beacon_SDB_Final_Report.pdf>
