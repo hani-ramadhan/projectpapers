@@ -9,7 +9,7 @@ Ph.D in Big Data (2017-Ongoing):
 - 2019 - International Conference (Poster Paper) - Big Data 2019: [Extracting valid indoor semantic trajectories using
 movement constraints][bdss19]
 -- (Database, Machine Learning, Deep Learning, Unstructured data, Signal Processing)
-- 2019 - Korean Conference Paper - KDBC 2019: [Learned Index for Similar Trajectory Search in Distributed In-Memory System][kdbc19], [PPT][kdbc2019ppt]
+- 2019 - Korean Conference Paper - KDBC 2019: [Learned Index for Similar Trajectory Search in Distributed In-Memory System][kdbc19],      [PPT][kdbc19ppt]
 -- (Database, Machine Learning, Deep Learning, TensorFlow, Scala)
 - 2019 - Course Project - Big Data Storage System: Learned Partition Index for Similar Trajectory Search in Distributed In-Memory System [Report][bdss19]
 -- (Database, Machine Learning, Deep Learning, TensorFlow, Scala)
