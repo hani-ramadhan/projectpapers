@@ -14,6 +14,7 @@ movement constraints][bdss19]
 - 2019 - Course Project - Big Data Storage System: Learned Partition Index for Similar Trajectory Search in Distributed In-Memory System [Report][bdss19]
 -- (Database, Machine Learning, Deep Learning, TensorFlow, Scala)
 - 2019 - Competition - Grab AI for SEA: Safety Detection Task [github][grabaisea19]
+-- (Machine Learning, Scikit-learn, Signal Processing, Data fusion)
 - 2018 - International Journal Paper (Published) - IJiM 2018: [The Relationship Between Mobile Phone Use in Classroom, Student's Focus, Study Program, Gender, and Academic Achievement in College Life][ijim]
 -- (Machine Learning, Statistical Analysis)
 - 2018 - Korean Conference Paper - KDBC 2018: [Real-Time Stay Points Detection and Hotspot Visualization of
