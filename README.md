@@ -6,8 +6,6 @@ Dear all, here you can find my records of written articles and reports while I w
 Here are the records:
 Ph.D in Big Data (2017-Ongoing):
 
-- 2019 - International Conference (Poster Paper) - Big Data 2019: [Extracting valid indoor semantic trajectories using
-movement constraints][bdss19]
 -- (Database, Machine Learning, Deep Learning, Unstructured data, Signal Processing)
 - 2019 - Korean Conference Paper - KDBC 2019: [Learned Index for Similar Trajectory Search in Distributed In-Memory System][kdbc19],      [PPT][kdbc19ppt]
 -- (Database, Machine Learning, Deep Learning, TensorFlow, Scala)
