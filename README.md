@@ -79,9 +79,9 @@ using Color Difference Histogram Feature Extraction][kursor]
 [bigdata19]: <https://github.com/hani-ramadhan/projectpapers/blob/master/poster_threepage.pdf>
 [sdb18]: <https://github.com/hani-ramadhan/projectpapers/blob/master/Map_Matching_Beacon_SDB_Final_Report.pdf>
 [grabaisea19]: <https://github.com/haniramadhan/grabaiforsea2019>
-[sensors20]:<https://github.com/hani-ramadhan/projectpapers/sensors-20-00527.pdf>
-[bigcomp20]:<https://github.com/hani-ramadhan/projectpapers/bigcomp2020-A%20constrained%20k-nearest%20neighbor%20approach%20for.pdf>
-[bigdata20]:<https://github.com/hani-ramadhan/projectpapers/bigdata2020-ramadhan2020.pdf>
-[infsciences22]:<https://github.com/hani-ramadhan/projectpapers/informationsciences2022-X-FIST%20Extended%20flood%20index%20for%20efficient%20similarity%20search%20in.pdf>
-[access21]:<https://github.com/hani-ramadhan/projectpapers/access21-A_Stacked_Denoising_Autoencoder_and_Long_Short-Term_Memory.pdf>
-[access20]:<https://github.com/hani-ramadhan/projectpapers/access20-MusQ_A_Multi-Store_Query_System_for_IoT_Data_Using_a_Datalog-Like_Language.pdf>
+[sensors20]:<https://github.com/hani-ramadhan/projectpapers/blob/master/sensors-20-00527.pdf>
+[bigcomp20]:<https://github.com/hani-ramadhan/projectpapers/blob/master/bigcomp2020-A%20constrained%20k-nearest%20neighbor%20approach%20for.pdf>
+[bigdata20]:<https://github.com/hani-ramadhan/projectpapers/blob/master/bigdata2020-ramadhan2020.pdf>
+[infsciences22]:<https://github.com/hani-ramadhan/projectpapers/blob/master/informationsciences2022-X-FIST%20Extended%20flood%20index%20for%20efficient%20similarity%20search%20in.pdf>
+[access21]:<https://github.com/hani-ramadhan/projectpapers/blob/master/access21-A_Stacked_Denoising_Autoencoder_and_Long_Short-Term_Memory.pdf>
+[access20]:<https://github.com/hani-ramadhan/projectpapers/blob/master/access20-MusQ_A_Multi-Store_Query_System_for_IoT_Data_Using_a_Datalog-Like_Language.pdf>
